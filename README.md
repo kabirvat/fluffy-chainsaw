@@ -35,9 +35,9 @@
 
 <body>
     <div class="header-container">
-        <img src="C:/Users/Dell/Downloads/emblem.png" alt="Emblem">
+        <img src=https://www.google.com/imgres?q=indian%20emblem&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F36%2Fe3%2Fc2%2F36e3c286ef8cebb8aa549319d1d0d145.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdownload-download-indian-emblem-wallpapers-to-your-cell-phone-national-emblem-of-india-png-image-for-free-sea--717761259380940557%2F&docid=bY_kEFZS33IBvM&tbnid=Uhgs9lNsvpGSEM&vet=12ahUKEwj-jtjX2PiOAxVLzDgGHTluH_0QM3oECBUQAA..i&w=735&h=833&hcb=2&ved=2ahUKEwj-jtjX2PiOAxVLzDgGHTluH_0QM3oECBUQAA alt="Emblem">
         <h1>THE CONSTITUTION OF INDIA</h1>
-        <img src="C:/Users/Dell/Downloads/emblem.png" alt="Emblem">
+        <img src=https://www.google.com/imgres?q=indian%20emblem&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F36%2Fe3%2Fc2%2F36e3c286ef8cebb8aa549319d1d0d145.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdownload-download-indian-emblem-wallpapers-to-your-cell-phone-national-emblem-of-india-png-image-for-free-sea--717761259380940557%2F&docid=bY_kEFZS33IBvM&tbnid=Uhgs9lNsvpGSEM&vet=12ahUKEwj-jtjX2PiOAxVLzDgGHTluH_0QM3oECBUQAA..i&w=735&h=833&hcb=2&ved=2ahUKEwj-jtjX2PiOAxVLzDgGHTluH_0QM3oECBUQAA alt="Emblem">
     </div>
 <br>
 <br>
